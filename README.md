@@ -1,6 +1,8 @@
 # EscrevendoAsClassesDeUmJogo
 
     Desafio de Projeto - Bootcamp Formação Lógica de Programação
+
+# 🎮 Escrevendo as Classes de um Jogo
     
 ## O Que deve ser utilizado:
 - Variáveis
@@ -35,4 +37,5 @@ Ao final deve se exibir uma mensagem:
 
 - "o {tipo} atacou usando {ataque}"
   ex: mago atacou usando magia
+             ou
   guerreiro atacou usando espada
